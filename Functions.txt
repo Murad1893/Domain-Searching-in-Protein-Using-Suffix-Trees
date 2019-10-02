@@ -1,0 +1,30 @@
+1
+Signalling protein. SH2 domains function as regulatory modules of intracellular signalling cascades by interacting with high affinity to phosphotyrosine-containing target peptides in a sequence-specific, SH2 domains recognise between 3-6 residues C-terminal to the phosphorylated tyrosine in a fashion that differs from one SH2 domain to another, and strictly phosphorylation-dependent manner.
+2
+Signalling protein. The domain family possesses multiple functions including the abilities to bind inositol phosphates, and various proteins.
+3
+Signalling protein.  Like all members of the Ras superfamily, the Rho proteins cycle between active GTP-bound and inactive GDP-bound conformational states.
+4
+Signalling protein. Sh3 are involved in protein-binding, proline-rich peptide-binding.
+5
+Signalling protein. RGS (Regulator of G Protein Signalling) proteins are multi-functional, GTPase-accelerating proteins that promote GTP hydrolysis by the alpha subunit of heterotrimeric G proteins, thereby inactivating the G protein and rapidly switching off G protein-coupled receptor signalling pathways.
+6
+Nuclear protein. The BAH domain appears to act as a protein-protein interaction module specialised in gene silencing, as suggested for example by its interaction within yeast Orc1p with the silent information regulator Sir1p. The BAH module might therefore play an important role by linking DNA methylation, replication and transcriptional regulation.
+7
+Signalling protein.Diacylglycerol (DAG) is an important second messenger. Phorbol esters (PE) are analogues of DAG and potent tumour promoters that cause a variety of physiological changes when administered to both cells and tissues. The N-terminal region of PKC, known as C1, has been shown to bind PE and DAG in a phospholipid and zinc-dependent fashion. Involved in diacylglycerol-binding, phorbol-ester binding, zinc-binding, RasGTP-binding.
+8
+Signalling protein. The CH domain is involved in actin binding in some members of the family.
+9
+Signalling protein. The GTP-bound form of ARF is essential for the maintenance of normal Golgi morphology, it participates in recruitment of coat proteins which are required for budding and fission of membranes.
+10
+Signalling protein. ANK_2 are involved in protein-protein interactions. The core of the repeat seems to be an helix-loop-helix structure.
+11
+Signalling protein. Ras proteins are membrane-associated molecular switches that bind GTP and GDP and slowly hydrolyze GTP to GDP. Involved in protein-binding, Ras-binding, guanine nucleotide exchange activity towards Ras.
+12
+Function is to package DNA into structural units called nucleosomes. Histones are the main proteins in chromatin. Chromatin is a combination of DNA and protein which makes up the contents of a cell nucleus. Because DNA wraps around histones, they also play a role in gene regulation.
+13
+Signalling protein. Involved in protein-binding, Ras-binding, GTPase-activatin.
+14
+Signalling protein. This factor stimulates the dissociation of GDP from the Ras-related RALA and RALB GTPases, which allows GTP binding and activation of the GTPases. It interacts and acts as an effector molecule for R-ras, K-Ras and Rap.
+15
+Nuclear protein. Protein Binding and in vivo function and their ability to tubulate membrane.
